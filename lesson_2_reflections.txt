@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository git creates some files for you that will allow you to track your changes of files in that directory.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a place for you to put all the files you want to group together before you committ them all at one time. This lets you committ everything that is relevant for one logical change. 
+
