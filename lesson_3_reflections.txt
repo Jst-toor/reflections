@@ -1,2 +1,8 @@
 When would you create a remote repository rather than keeping all your work local?
 
+Create a remote repository when working with other people.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You should pull changes manually because having auto updates would create too many commits and jumble your history. Doing this manually allows you to commit everytime you make a logical change. 
+
